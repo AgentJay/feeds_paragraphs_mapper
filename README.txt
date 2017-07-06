@@ -1,0 +1,1 @@
+Feeds paragraphs mapper
